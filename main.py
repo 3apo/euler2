@@ -1,4 +1,4 @@
-__author__ = 'rameshvb'
+__author__ = ''
 
 print 'THis is Project Euler'
 p28()
